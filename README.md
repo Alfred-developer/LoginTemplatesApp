@@ -66,15 +66,15 @@ git clone https://github.com/Alfred-developer/LoginTemplatesApp.git
 ```bash
 cd LoginTemplatesApp
 ```
-**3. Access the folder**
+**3. Install Expo CLI**
 ```bash
 npm install -g expo-cli exp
 ```
-**4. Access the folder**
+**4. Install dependecies**
 ```bash
 npm i
 ```
-**5. Access the folder**
+**5. Run proyect**
 ```bash
 npx expo start
 ```
